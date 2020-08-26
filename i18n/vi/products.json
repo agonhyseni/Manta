@@ -1,0 +1,9 @@
+{
+  "header": "All Products",
+  "fields": {
+    "product": "Product",
+    "name": "Name",
+    "price": "Price",
+    "actions": "Actions"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "header": {
+    "all": "All Products",
+    "edit": "Edit Product",
+    "btns": {
+      "clear": "Clear",
+      "new": "New",
+      "update": "Update",
+      "saveAndPreview": "Save & Preview"
+    }
+  },
+  "fields": {
+    "product": "Product",
+    "name": "Name",
+    "price": "Price",
+    "actions": "Actions"
+  }
+}
